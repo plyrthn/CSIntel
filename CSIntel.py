@@ -26,7 +26,7 @@ host = "https://intelapi.crowdstrike.com/"
 indicatorPath = "indicator/v2/search/"
 malqueryPath = "malquery/"
 reportsPath = "reports/"
-defaultConfigFileName = ".csintel.ini"
+defaultConfigFileName = "csintel.ini"
 
 # setup
 __author__ = "Adam Hogan"
